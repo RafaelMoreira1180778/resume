@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-cd "$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
-
 set -euo pipefail
+
+cd "$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 
 INPUT="cv.drawio"
 OUTPUT="cv.pdf"
