@@ -5,12 +5,12 @@ set -euo pipefail
 cd "$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 
 INPUT="cv.drawio"
-OUTPUT="cv.pdf"
+OUTPUT="cv"
 
 drawio "$INPUT" \
     --export \
     --format pdf \
-    --output "$OUTPUT" 2>&1 >/dev/null
+    --output "$OUTPUT".pdf 2>&1 >/dev/null
 
 echo
 echo "========================="
