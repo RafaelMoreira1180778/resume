@@ -1,7 +1,5 @@
 # Curriculum Vitae
 
-This repository contains the [diagrams.net](https://app.diagrams.net/) Diagram used as my Resume.
-
 ![Resume](https://gitlab.com/work-and-public/cv/-/raw/master/cv.png)
 
 ## Icons and Images
