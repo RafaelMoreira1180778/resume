@@ -1,6 +1,6 @@
-# Curriculum Vitae
+# Curriculum Vitae (Resume)
 
-![Resume](https://gitlab.com/work-and-public/cv/-/raw/master/cv.png)
+![Resume](https://gitlab.com/work-and-public/cv/-/raw/master/generated/gitlab.com/resume.png)
 
 ## Icons and Images
 
