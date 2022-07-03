@@ -2,7 +2,7 @@
 
 This repository contains the [Draw.io](https://app.diagrams.net/) Diagram used as my Resume.
 
-![Resume]()
+![Resume](https://gitlab.com/work-and-public/cv/-/blob/master/cv.svg)
 
 ## Icons and Images
 
