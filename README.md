@@ -8,6 +8,8 @@ For copyright purposes, all the `.svg` icons were downloaded from [svgrepo.com](
 
 This warning serves the purpose of giving credit to the creators of the vector images used.
 
-## Licensing
+## License
 
-This project is hosted under the [Apache 2.0 License](https://gitlab.com/work-and-public/cv/-/raw/master/LICENSE).
+Copyright © 2022 Rafael Moreira
+
+This repository and all it's code is under the [MIT License](./LICENSE).
