@@ -12,4 +12,4 @@ This warning serves the purpose of giving credit to the creators of the vector i
 
 Copyright © 2022 Rafael Moreira
 
-This repository and all it's code is under the [MIT License](./LICENSE).
+This repository and all it's code is licensed under the [MIT License](./LICENSE).
