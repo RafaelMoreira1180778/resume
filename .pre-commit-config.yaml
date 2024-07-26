@@ -1,0 +1,10 @@
+repos:
+  - repo: local
+    hooks:
+      - id: resume-export
+        name: Export Resume to PDF
+        description: Runs 'drawio --export --format=pdf resume.drawio'
+        entry: drawio
+        language: system
+        args: ["--export", "--format=pdf", "--no-sandbox", "resume.drawio"]
+        files: resume.drawio

@@ -2,7 +2,7 @@
 
 Hosts my humble resume, in a sort of *resume-as-code* way 😁
 
-You can access it at [`generated/resume.pdf`](generated/resume.pdf).
+You can access it at [`resume.pdf`](resume.pdf).
 
 Feel free to contact me or access my website [homelabrafael.com](https://homelabrafael.com/).
 
