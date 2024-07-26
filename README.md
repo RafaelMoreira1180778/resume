@@ -1,6 +1,10 @@
-# Curriculum Vitae (Resume)
+# Resume
 
-![Resume](https://gitlab.com/work-and-public/cv/-/raw/master/generated/resume.png)
+Hosts my humble resume, in a sort of *resume-as-code* way 😁
+
+You can access it at [`generated/resume.pdf`](generated/resume.pdf).
+
+Feel free to contact me or access my website [homelabrafael.com](https://homelabrafael.com/).
 
 ## Icons and Images
 
@@ -10,6 +14,6 @@ This warning serves the purpose of giving credit to the creators of the vector i
 
 ## License
 
-Copyright © 2022 Rafael Moreira
+Copyright © 2024 Rafael Moreira
 
 This repository and all it's code is licensed under the [MIT License](./LICENSE).
