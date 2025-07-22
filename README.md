@@ -1,7 +1,7 @@
 # Resume
 
 > [!WARNING]
-> This repository has been archived since I am now using [Reactive Resume](https://rxresu.me).
+> This repository has been archived since I am now using [Reactive Resume](https://rxresu.me).  
 > You can check my resume [at this link](https://rxresu.me/rafaelmoreira/resume).
 
 Hosts my humble resume, in a sort of *resume-as-code* way 😁
